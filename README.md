@@ -2,9 +2,9 @@
 
 ## Requisitos
 
-Son Obligatiorias tener unas gafas de realidad virtual, especificamente de la marca Vive.
+Son Obligatorias tener unas gafas de realidad virtual, específicamente de la marca Vive.
 
-Tambien son Obligatorios unos cascos con microfono integrado.
+También son Obligatorios unos cascos con micrófono integrado.
 
 ## Controles:
 
@@ -12,7 +12,8 @@ Para lanzas un hechizo tienes que decir el nombre y a la vez hacer el movimiento
 
 Movimiento (te mueves hacia donde miras):
  - Adelante: Mando izquierdo circulo arriba.
- - Atras: Mando izquierdo circulo abajo.
+ - Atrás: Mando izquierdo circulo abajo.
  
 Libro:
- - Cambiar hechizo: Mando izquierdo circulo derecho y izquierdo.
+ - Cambiar hechizo: Mando izquierdo círculo derecho y izquierdo.
+
