@@ -15,5 +15,5 @@ Movimiento (te mueves hacia donde miras):
  - Atrás: Mando izquierdo circulo abajo.
  
 Libro:
- - Cambiar hechizo: Mando izquierdo círculo derecho y izquierdo.
+ - Cambiar hechizo: Mando izquierdo círculo derecho e izquierdo.
 
